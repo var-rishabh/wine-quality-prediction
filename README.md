@@ -3,8 +3,7 @@
 This repository contains code for predicting the quality of wine using various classifier models in Python. The dataset used for training and testing the models is obtained from Kaggle.
 
 ### Introduction
-Predicting the quality of wine is an important task in the field of oenology. This project aims to demonstrate how to use different classifier models to predict the quality of wine based on various features. The code provided in this repository includes data exploration using matplotlib and seaborn, followed by the implementation of classifier models. 
-Additionally, cross-validation evaluation techniques are applied to optimize the model performance.
+Predicting the quality of wine is an important task in the field of oenology. This project aims to demonstrate how to use different classifier models to predict the quality of wine based on various features. The code provided in this repository includes data exploration using matplotlib and seaborn, followed by the implementation of classifier models.
 
 ### Dataset
 The dataset used in this project is sourced from Kaggle. It consists of various attributes related to wine, such as acidity, pH level, residual sugar, alcohol content, and quality. The dataset is preprocessed and divided into training and testing sets.
